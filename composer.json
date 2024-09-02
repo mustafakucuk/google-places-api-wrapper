@@ -1,0 +1,16 @@
+{
+    "name": "mustafakucuk/google-places",
+    "description": "A simple PHP wrapper for the new Google Places API, making it easy to perform place searches, retrieve details, and use autocomplete features.",
+    "type": "library",
+    "require-dev": {
+        "guzzlehttp/guzzle": "^7.9"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mustafa KÜÇÜK",
+            "email": "devmustafakucuk@gmail.com"
+        }
+    ],
+    "require": {}
+}
