@@ -5,6 +5,11 @@
     "require-dev": {
         "guzzlehttp/guzzle": "^7.9"
     },
+    "autoload": {
+        "psr-4": {
+            "GooglePlaces\\": "src/"
+        }
+    },
     "license": "MIT",
     "authors": [
         {
